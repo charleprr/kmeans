@@ -97,7 +97,7 @@ function deplacerClusters() {
 	update();
 }
 
-let points = new Array(100);
+let points = new Array(800);
 for(let i=0; i<points.length; i++){
 	points[i] = new Point();
 }
