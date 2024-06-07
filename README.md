@@ -1,1 +1,1 @@
-[Live demo](https://charlypoirier.github.io/kmeans/)
+[Live demo](https://charleprr.github.io/kmeans/)
